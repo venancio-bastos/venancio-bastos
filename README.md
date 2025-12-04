@@ -43,5 +43,5 @@ Atualmente na **42 Porto**, estou a expandir o meu *stack* para **C, C++, Python
 * 💻 À procura de novos desafios como **Frontend / Fullstack Developer**.
 
 📫 **Vamos falar?**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](LINK_DO_TEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ven%C3%A2ncio-bastos-8a6264215/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vjpb2002@gmail.com)
