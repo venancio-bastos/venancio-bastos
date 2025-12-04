@@ -11,12 +11,12 @@ Atualmente na **42 Porto**, estou a expandir o meu *stack* para **C, C++, Python
 ### 🏆 Destaques Recentes (Hackathons)
 
 🥇 **1.º Lugar | AI @ Retail Hackathon (SONAE x 42 Porto)** _(Nov 2025)_
-> Desenvolvi o **"Hot Self"**, um dashboard com integração de AI para monitorização de lojas em tempo real.
+> Na **"Hot Self"**, desenvolvi todo um dashboard com integração de AI para monitorização de lojas em tempo real.
 > *Stack: React, TypeScript, Python, Azure, OpenAI API.*
 
 🥉 **3.º Lugar | Retail Hackathon 2025** _(Out 2025)_
 > Co-criei o **"The Closet"**, um espelho inteligente que recomenda outfits baseados em preferências do cliente.
-> *Stack: React.js, Python, AI Engine.*
+> *Stack: Next.js, Python, AI Engine.*
 
 ---
 
