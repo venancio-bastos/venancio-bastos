@@ -11,11 +11,11 @@ Atualmente na **42 Porto**, estou a expandir o meu *stack* para **C, C++, Python
 ### 🏆 Destaques Recentes (Hackathons)
 
 🥇 **1.º Lugar | AI @ Retail Hackathon (SONAE x 42 Porto)** _(Nov 2025)_
-> Na **"Hot Self"**, desenvolvi todo um dashboard com integração de AI para monitorização de lojas em tempo real.
+> No projeto **"Hot Self"**, desenvolvi o dashboard completo com integração de AI para monitorização de lojas em tempo real.
 > *Stack: React, TypeScript, Python, Azure, OpenAI API.*
 
 🥉 **3.º Lugar | Retail Hackathon 2025** _(Out 2025)_
-> Co-criei o **"The Closet"**, um espelho inteligente que recomenda outfits baseados em preferências do cliente.
+> No projeto **"The Closet"** (um espelho inteligente que recomenda outfits), fiquei responsável pela criação do backend e da API.
 > *Stack: Next.js, Python, AI Engine.*
 
 ---
@@ -24,8 +24,11 @@ Atualmente na **42 Porto**, estou a expandir o meu *stack* para **C, C++, Python
 
 **Frontend & Web:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Core Engineering (42 Porto):**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
