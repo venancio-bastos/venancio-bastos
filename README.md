@@ -1,8 +1,10 @@
 # Olá, sou o Venâncio! 👋
 
-### Frontend Developer & Software Engineering Student @ 42 Porto
+### Software Developer | Frontend Experience & Low-Level Engineering
 
-Sou um developer apaixonado por criar interfaces de alto impacto e, atualmente, estou a aprofundar os meus conhecimentos em engenharia de software de baixo nível. Tenho **2 anos de experiência profissional** em Frontend e foco-me em resolver problemas complexos, seja com **React** ou **C**.
+Com **2 anos de experiência profissional em Frontend**, especializei-me em criar interfaces robustas e performantes. No entanto, a minha curiosidade vai além do pixel: sou apaixonado pela **lógica, estrutura de dados e algoritmos** que suportam as aplicações.
+
+Atualmente na **42 Porto**, estou a expandir o meu *stack* para **C, C++, Python e AI/LLMs**. O meu objetivo não é apenas construir o que o utilizador vê, mas dominar todo o ciclo de engenharia — desde a gestão de memória e lógica de backend até à integração final na interface.
 
 ---
 
